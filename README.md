@@ -5,3 +5,5 @@ git commit -m "Arayüz için temel yapı oluşturuldu"
 git add .
 git commit -m 
 "- Anasayfa ve blog yazısı detay sayfası için HTML ve CSS tasarımları eklendi."
+Web sitesinin arayüzünde hata veren bir yer düzeltildi.
+- Menü öğelerinin arka plan rengi beyaz olacak şekilde düzenlendi.
