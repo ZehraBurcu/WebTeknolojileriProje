@@ -7,3 +7,4 @@ git commit -m
 "- Anasayfa ve blog yazısı detay sayfası için HTML ve CSS tasarımları eklendi."
 Web sitesinin arayüzünde hata veren bir yer düzeltildi.
 - Menü öğelerinin arka plan rengi beyaz olacak şekilde düzenlendi.
+Arka plan resmi yüklemeye çalışırken bir problemle karşılaştım. Sorunu daha iyi anlamak için bir proje daha oluşturdum. Sonradan sıkıntıyı öğrenip hallettim.
