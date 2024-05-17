@@ -10,3 +10,4 @@ Web sitesinin arayüzünde hata veren bir yer düzeltildi.
 Arka plan resmi yüklemeye çalışırken bir problemle karşılaştım. Sorunu daha iyi anlamak için bir proje daha oluşturdum. Sonradan sıkıntıyı öğrenip hallettim.
 "Websitemin Hakkımda sayfasını ekledim"
 git commit -m "İlgi alanı sayfamı oluşturdum"
+git commit -m "Şehrim sayfasını yaptım"
