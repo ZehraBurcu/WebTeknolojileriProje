@@ -1,12 +1,11 @@
 # WebTeknolojileriProje
 Bu proje [Kendimi ve yaşadığım şehri tanıtmak] için geliştirilmiştir.
-"Arayüz için temel yapı oluşturuldu"
+Arayüz için temel yapı oluşturuldu.
 
-"- Anasayfa ve blog yazısı detay sayfası için HTML ve CSS tasarımları eklendi."
-Web sitesinin arayüzünde hata veren bir yer düzeltildi.
-- Menü öğelerinin arka plan rengi beyaz olacak şekilde düzenlendi.
-Arka plan resmi yüklemeye çalışırken bir problemle karşılaştım. Sorunu daha iyi anlamak için bir proje daha oluşturdum. Sonradan sıkıntıyı öğrenip hallettim.
-"Websitemin Hakkımda sayfasını ekledim"
-"İlgi alanı sayfamı oluşturdum"
-"Şehrim sayfasını yaptım"
-"Özgeçmişim sayfasını yaptım"
+Anasayfa ve blog yazısı detay sayfası için HTML ve CSS tasarımları eklendi
+Web sitesinin arayüzünde hata veren bir yer düzeltildi. Menü öğelerinin arka plan rengi beyaz olacak şekilde düzenlendi.
+Arka plan resmi yüklemeye çalışırken bir problemle karşılaşıldı. Sorunu daha iyi anlamak için bir proje daha oluşturuldu. Sonradan sıkıntıyı öğrenip halledildi.
+Hakkımda sayfası eklendi.
+İlgi alanı sayfamı oluşturuldu.
+Şehrim sayfası yapıldı.
+Özgeçmişim sayfası yapıldı.
