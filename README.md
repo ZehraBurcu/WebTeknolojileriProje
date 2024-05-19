@@ -11,4 +11,4 @@ Arka plan resmi yüklemeye çalışırken bir problemle karşılaştım. Sorunu 
 "Websitemin Hakkımda sayfasını ekledim"
 git commit -m "İlgi alanı sayfamı oluşturdum"
 git commit -m "Şehrim sayfasını yaptım"
-"Eğitim bilgilerim sayfasını yaptım"
+"Özgeçmişim sayfasını yaptım"
